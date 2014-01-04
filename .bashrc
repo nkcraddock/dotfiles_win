@@ -1,3 +1,4 @@
+alias dev='cd /e/dev'
 alias ls='ls -F --color --show-control-chars'
 alias ex='/c/windows/explorer.exe . &'
 
